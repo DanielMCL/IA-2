@@ -9,8 +9,8 @@ P2_1_clustering:  Use of both KMeans and AgglomerativeClustering from sklearn to
                   Use of pandas library to load and handle data.\
                   Use of functions from matplotlib to visualize data.
                   
-P2_2_clasificacion:   Use of DecisionTreeClassifier, KNeighborsClassifier and MLPClassifier from sklearn to cluster data.
-                      Use of various functions from sklearn.metrics to compare the different clustering methods used in this and the previous notebook.\
+P2_2_clasificacion:   Use of DecisionTreeClassifier, KNeighborsClassifier and MLPClassifier from sklearn to cluster data.\
+                      Use of various functions from sklearn.metrics to compare the different clustering methods used in this and the previous notebook.
                       
 P3_1_clasificacion_texto:  Use and contrast of different methodsd to cluster natural language tests.
 
